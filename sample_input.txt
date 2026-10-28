@@ -1,0 +1,12 @@
+Hello    world!   
+
+
+
+This  is   a   messy    file.
+This  is   a   messy    file.
+  Tabs and   spaces   everywhere
+
+
+
+   Hello    world!   
+End of file.
